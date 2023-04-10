@@ -16,5 +16,8 @@
 4. 신고제 운영하여 건전한 게시판 환경을 유지할 수 있습니다.
 5. 주변 업체는 무료로 가게를 홍보할 수 있습니다.
 
+### 결과영상
+https://user-images.githubusercontent.com/98890934/230805755-75808790-5914-46ff-89b1-e71bba930d56.mp4
+
 ### 개발 개요(Use Case)
 ![image](https://user-images.githubusercontent.com/98890934/230804160-4157f8c1-63db-4730-a546-717d1628bc0b.png)

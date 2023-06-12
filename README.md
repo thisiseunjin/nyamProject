@@ -37,7 +37,10 @@ Firebase를 사용하면서 **NoSQL**을 실제로 사용해 볼 수 있었다�
 - Database : Firebase Realtime Database
 
 # 👀 시연영상
-https://user-images.githubusercontent.com/98890934/230805755-75808790-5914-46ff-89b1-e71bba930d56.mp4
+
+
+https://github.com/thisiseunjin/nyamProject/assets/98890934/247d94d7-8bae-4a7c-b69a-9c359b3898e3
+
 
 ### 개발 개요(Use Case)
 ![image](https://user-images.githubusercontent.com/98890934/230804160-4157f8c1-63db-4730-a546-717d1628bc0b.png)

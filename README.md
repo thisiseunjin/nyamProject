@@ -4,10 +4,9 @@
 
 # 📌 Summery
 
-
 **배달 음식의 최소 주문 금액과 배달팁을 나누어 분담할 수 있도록 도와주는 어플리케이션**입니다. 대학교 동기의 배달음식을 먹을 때는 최소주문 금액과 배달팁의 부담 때문에 함께 먹을 사람을 구하는 것이 힘들다는 이야기를 듣고, 같은 불편함을 느끼는 사람들에게 도움이 되었으면 하는 마음으로 개발을 진행했습니다.
 
-**안드로이드 어플리케이션**을 처음 개발하게된 프로젝트입니다. 이 과정에서 **백앤드** 개발을 경험할 수 있었습니다. 
+**안드로이드 어플리케이션**을 처음 개발하게된 프로젝트입니다. 이 과정에서 **백앤드** 개발을 경험할 수 있었습니다.
 
 Firebase를 사용하면서 **NoSQL**을 실제로 사용해 볼 수 있었다는 점에서 의미 있었습니다.
 
@@ -17,8 +16,7 @@ Firebase를 사용하면서 **NoSQL**을 실제로 사용해 볼 수 있었다�
 - 회원가입 전 학생증 인증을 통해 안전하게 어플리케이션을 이용할 수 있습니다.
 - 채팅 기능을 통해 함께 주문할 사람들과 쉽게 음식을 받을 장소를 조율할 수 있습니다.
 
-# ****🤔 Background****
-
+# \***\*🤔 Background\*\***
 
 학부시절 첫 자유 프로젝트를 기획하게 되었을 때, '실질적으로 도움이 되는 프로젝트를 만들어보자'는 생각으로 시작하였습니다. 당시 기숙사에서 살던 친구가 배달음식 최소 주문금액과 배달팁 문제로 어려움을 겪고 있다고 이야기한 것이 기억에 남았습니다. 그래서 이런 불편을 해결할 수 있는 어플리케이션을 기획하게 되었습니다.
 
@@ -32,15 +30,42 @@ Firebase를 사용하면서 **NoSQL**을 실제로 사용해 볼 수 있었다�
 
 # 🔨 Technology Stack(s)
 
+<table>
+<tr>
+ <td align="center">언어</td>
+ <td>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
-- Mobile App : Andriod Studio(JAVA)
-- Database : Firebase Realtime Database
+ </td>
+</tr>
+<tr>
+ <td align="center">프레임워크</td>
+ <td>
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=ffffff"/>
+</tr>
+
+<tr>
+ <td align="center">데이터 베이스</td>
+ <td>
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+
+  </td>
+</tr>
+
+<tr>
+ <td align="center">패키지 매니저</td>
+ <td>
+    <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+
+  </td>
+</tr>
+
+</table>
 
 # 👀 시연영상
 
-
 https://github.com/thisiseunjin/nyamProject/assets/98890934/247d94d7-8bae-4a7c-b69a-9c359b3898e3
 
-
 ### 개발 개요(Use Case)
+
 ![image](https://user-images.githubusercontent.com/98890934/230804160-4157f8c1-63db-4730-a546-717d1628bc0b.png)
